@@ -13,5 +13,5 @@ OpenCRM Backend is a public project aimed at helping small businesses manage cus
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14 or later)
+- [Node.js](https://nodejs.org/)
 - [Firebase CLI](https://firebase.google.com/docs/cli)
